@@ -1,0 +1,12 @@
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\BikeDistributor.Test.dll
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\BikeDistributor.Test.pdb
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\BikeDistributor.dll
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\BikeDistributor.pdb
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.csprojAssemblyReference.cache
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.csproj.CoreCompileInputs.cache
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.csproj.CopyComplete
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.dll
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.pdb
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\BackendRefactorChallenge-master\src\BikeDistributor.Test\bin\Debug\Newtonsoft.Json.xml
